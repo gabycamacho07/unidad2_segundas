@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DMI_CLIMA_2.0</string>
+    <string name="prefs_file">com.example.dmi_clima_20.PREFERENCE_FILE_KEY</string>
+    <string name="default_web_client_id">606493319592-2b1pja13l5gg48d1a2956puiuame0p2q.apps.googleusercontent.com</string>
+
+
+    <string name="facebook_app_id">348188201054308</string>
+    <string name="facebook_client_token">b388d1b7d974d54e7c24f35fedafd8b6</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606493319592",
+    "project_id": "clima-bd884",
+    "storage_bucket": "clima-bd884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606493319592:android:e0ee714cf1eca59a13fd9d",
+        "android_client_info": {
+          "package_name": "com.example.dmi_clima_20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJvi8Uz5wtW-ji_hND3sFLVWaZfXutss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
